@@ -1,0 +1,15 @@
+
+code quality linters --- 
+godoc --- function defination 
+
+unit test 
+min.go --- 4 fun testing ---- file1_test.go---- copy main mcode- g2website unit testing forgolang 
+
+runtest coverred green marked unmarkred
+
+
+
+ping pong server ----- golong
+
+
+intellig go
